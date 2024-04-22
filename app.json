@@ -15,10 +15,11 @@
 			"description": "Make Config on gist and paste raw link "
 		}
 	},
+	"stack": "container",
 	"formation": {
 		"worker": {
 			"quantity": 1,
-			"size": "eco"
+			"size": "standard-2x"
 		}
 	}
 }
